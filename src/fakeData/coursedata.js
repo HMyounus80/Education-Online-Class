@@ -1,4 +1,4 @@
-var course = [
+var courseData = [
     {
         name: 'The Complete JavaScript Course 2020: Build Real Projects!',
         price: 12.99,
@@ -75,10 +75,6 @@ var course = [
         price: 10.99,
         img: "https://i.ibb.co/myjnfyy/html-css.jpg"
     },
-    {
-        name: 'The Complete JavaScript Course 2020: Build Real Projects!',
-        price: 14.99,
-        img: "https://i.ibb.co/84CbRrG/js-coures.jpg"
-    }
+   
 ]
-export default course;
+export default courseData;
